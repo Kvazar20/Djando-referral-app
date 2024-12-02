@@ -1,0 +1,46 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Django stuff:
+*.log
+*.sqlite3
+db.sqlite3-journal
+
+# Django media and static files
+media/
+static/
+templates/
+
+# Environment variable files
+.env
+*.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+*.env/
+
+# PyCharm settings
+.idea/
+
+# Mac OS X system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Backup files
+*.bak
+*.swp
